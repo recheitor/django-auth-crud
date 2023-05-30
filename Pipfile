@@ -5,8 +5,6 @@ name = "pypi"
 
 [packages]
 django = "*"
-mysql = "*"
-mysqlclient = "*"
 dj-database-url = "*"
 
 [dev-packages]
